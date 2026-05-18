@@ -2,7 +2,7 @@
 
 A full-stack sales finance analytics portfolio built to demonstrate end-to-end data and finance skills — from raw data generation through SQL analysis, Excel financial modeling, interactive dashboards, and an AI-assisted commentary engine.
 
-**Live demo → [bradymiddleton.github.io/middleton-finance-suite](https://bradymiddleton.github.io/middleton-finance-suite)**
+**Live demo → [bradymiddleton.github.io/middleton-finance-suite](https://bradymiddleton.github.io/Sales-Finance-Automation-Suite/)**
 
 ---
 
